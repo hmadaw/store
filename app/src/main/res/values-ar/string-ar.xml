@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_back" translatable="false">مرحبا بعودتك!</string>
+    <string name="login_to_your_account" translatable="false">تسجيل الدخول الى حسابك</string>
+    <string name="username" translatable="false">اسم المستخدم</string>
+    <string name="password" translatable="false">كلمه السر</string>
+    <string name="sign_in" translatable="false">تسجيل الدخول</string>
+    <string name="or_sign_in_with" translatable="false">--------------------- او تسجيل الدخول مع ---------------------</string>
+    <string name="don_t_have_an_account" translatable="false">لا تملك حساب ؟</string>
+    <string name="sign_up_here" translatable="false">اضغط هنا لانشاء حساب</string>
+</resources>
